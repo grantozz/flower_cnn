@@ -9,7 +9,7 @@ pipenv install
 
 ## training the model
 ```bash
-#activates enviorment 
+#activates environment 
 pipenv shell
 #run train script 
 python src/flower_cnn.py
@@ -17,8 +17,8 @@ python src/flower_cnn.py
 
 ## testing the model
 ```bash
-#activates enviorment 
+#activates environment 
 pipenv shell
 #run test script 
-python src/flower_cnn.py flower_model_v4.0.6.h5 flower_model_v4.0.6_labels.txt
+python src/test.py flower_model_v4.0.6.h5 flower_model_v4.0.6_labels.txt
 ```
