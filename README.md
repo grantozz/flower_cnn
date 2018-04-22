@@ -1,7 +1,7 @@
 # flower_cnn
 ## Installing 
 ```bash
-sudo pip install pipenv
+sudo -H pip install -U pipenv
 git clone https://github.com/grantozz/flower_cnn
 cd flower_cnn
 pipenv install 
