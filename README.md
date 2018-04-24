@@ -1,4 +1,9 @@
 # flower_cnn
+this project comes with a pretrained model
+
+so after installing 
+you can either train or test the model in which ever order you like
+
 ## Installing 
 ```bash
 sudo -H pip install -U pipenv
